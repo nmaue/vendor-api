@@ -1,0 +1,9 @@
+certifi
+chardet
+idna
+requests
+rt
+six
+suds
+urllib2
+urllib3
